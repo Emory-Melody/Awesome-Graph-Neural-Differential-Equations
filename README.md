@@ -1,1 +1,1 @@
-# Awesome-Graph-NDEs
+# Awesome Graph Neural Differential Equations (Graph NDEs)
