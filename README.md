@@ -158,26 +158,25 @@ You can follow our latest survey to stay updated with the most recent advancemen
 111. [2019] **Graph Neural Ordinary Differential Equations** [[paper]]()
 
 ## PDE
-1. [2024] **Continuous Spiking Graph Neural Networks** [[paper]]()
-2. [2024] **Feature Transportation Improves Graph Neural Networks** [[paper]]()
-3. [2024] **Graph Neural Reaction Diffusion Models** [[paper]]()
-4. [2024] **HAMLET: Graph Transformer Neural Operator for Partial Differential Equations** [[paper]]()
-5. [2023] **EgPDE-Net: Building Continuous Neural Networks for Time Series Prediction with Exogenous Variables (not relavant)** [[paper]]()
-7. [2022] **Modular Flows: Differential Molecular Generation** [[paper]]()
-8. [2021] **Beltrami Flow and Neural Diffusion on Graphs** [[paper]]()
-9. [2021] **GrADE: A graph based data-driven solver for time-dependent nonlinear partial differential equations** [[paper]]()
-10. [2021] **Learning continuous-time PDEs from sparse data with graph neural networks** [[paper]]()
+1. [2024] **Continuous Spiking Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2404.01897)
+2. [2024] **Feature Transportation Improves Graph Neural Networks** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29073)
+3. [2024] **Graph Neural Reaction Diffusion Models** [[paper]](https://epubs.siam.org/doi/abs/10.1137/23M1576700)
+4. [2024] **HAMLET: Graph Transformer Neural Operator for Partial Differential Equations** [[paper]](https://arxiv.org/abs/2402.03541)
+7. [2022] **Modular Flows: Differential Molecular Generation** [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/509f7977030f3550300f541ec228c3fc-Paper-Conference.pdf)
+8. [2021] **Beltrami Flow and Neural Diffusion on Graphs** [[paper]](https://proceedings.neurips.cc/paper/2021/file/0cbed40c0d920b94126eaf5e707be1f5-Paper.pdf)
+9. [2021] **GrADE: A graph based data-driven solver for time-dependent nonlinear partial differential equations** [[paper]](https://arxiv.org/abs/2108.10639)
+10. [2021] **Learning continuous-time PDEs from sparse data with graph neural networks** [[paper]](https://arxiv.org/pdf/2006.08956)
 
 
 ## SDE
-1. [2024] **BROGNET: MOMENTUM CONSERVING GRAPH NEU- RAL STOCHASTIC DIFFERENTIAL EQUATION FOR LEARNING BROWNIAN DYNAMICS** [[paper]]()
-2. [2024] **Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatiotemporal Forecasting** [[paper]]()
-3. [2024] **Uncertainty Modeling in Graph Neural Networks via Stochastic Differential Equations** [[paper]]()
-4. [2024] **Evolved Differential Model for Sporadic Graph Time-Series Prediction** [[paper]]()
-5. [2024] **AGGDN: A Continuous Stochastic Predictive Model for Monitoring Sporadic Time Series on Graphs** [[paper]]()
-6. [2023] **Conditional Diffusion Based on Discrete Graph Structures for Molecular Graph Generation** [[paper]]()
-7. [2023] **Graph Neural Stochastic Differential Equations** [[paper]]()
-8. [2022] **GraphGDP: Generative Diffusion Processes for Permutation Invariant Graph Generation** [[paper]]()
+1. [2024] **BROGNET: MOMENTUM CONSERVING GRAPH NEU- RAL STOCHASTIC DIFFERENTIAL EQUATION FOR LEARNING BROWNIAN DYNAMICS** [[paper]](https://openreview.net/forum?id=2iGiSHmeAN)
+2. [2024] **Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatiotemporal Forecasting** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10589693)
+3. [2024] **Uncertainty Modeling in Graph Neural Networks via Stochastic Differential Equations** [[paper]](https://arxiv.org/pdf/2408.16115?)
+4. [2024] **Evolved Differential Model for Sporadic Graph Time-Series Prediction** [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10706763)
+5. [2024] **AGGDN: A Continuous Stochastic Predictive Model for Monitoring Sporadic Time Series on Graphs** [[paper]](https://link.springer.com/chapter/10.1007/978-981-99-8079-6_11)
+6. [2023] **Conditional Diffusion Based on Discrete Graph Structures for Molecular Graph Generation** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25549)
+7. [2023] **Graph Neural Stochastic Differential Equations** [[paper]](https://arxiv.org/abs/2308.12316)
+8. [2022] **GraphGDP: Generative Diffusion Processes for Permutation Invariant Graph Generation** [[paper]](https://ieeexplore.ieee.org/abstract/document/10027663)
 
 
 <!-- ## Others Graph Neural DEs   -->
