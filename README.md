@@ -179,8 +179,9 @@ You can follow our latest survey to stay updated with the most recent advancemen
 8. [2022] **GraphGDP: Generative Diffusion Processes for Permutation Invariant Graph Generation** [[paper]](https://ieeexplore.ieee.org/abstract/document/10027663)
 
 
-<!-- ## Others Graph Neural DEs   -->
-
+## Others Graph Neural DEs 
+### Controlled Differential Equation (CDE)
+1. [2023] **Learning Dynamic Graph Embeddings with Neural Controlled Differential Equations** [[paper]](https://arxiv.org/pdf/2302.11354)
 
 ## Related Surveys
 <!-- 1. [2022] **Data-Centric Epidemic Forecasting: A Survey** [[paper]](http://arxiv.org/abs/2207.09370) -->
