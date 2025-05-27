@@ -15,7 +15,7 @@ You can follow our latest survey to stay updated with the most recent advancemen
 
 <!-- <div align=center><img src="https://github.com/Emory-Melody/Awesome-Graph-Neural-Differential-Equations/blob/main/figures/frame.png" width="1000" /></div> -->
 
-<div align=center><img src="https://github.com/Emory-Melody/Awesome-Graph-Neural-Differential-Equations/blob/main/figures/summary.png" width="1000" /></div>
+<div align=center><img src="https://github.com/Emory-Melody/Awesome-Graph-Neural-Differential-Equations/blob/main/summary.png" width="1000" /></div>
 
 
 
