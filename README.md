@@ -13,10 +13,10 @@ You can follow our latest survey to stay updated with the most recent advancemen
 <!-- (https://arxiv.org/abs/2403.19852) -->
 
 
-<div align=center><img src="https://github.com/Emory-Melody/Awesome-Graph-Neural-Differential-Equations/blob/main/figures/frame.pdf" width="1000" /></div>
+<div align=center><img src="https://github.com/Emory-Melody/Awesome-Graph-Neural-Differential-Equations/blob/main/figures/frame.png" width="1000" /></div>
 
-<div align=center><img src="https://github.com/Emory-Melody/Awesome-Graph-Neural-Differential-Equations/blob/main/figures/summary.pdf" width="1000" /></div>
-<div align=center><img src="https://github.com/Emory-Melody/awesome-epidemic-modeling-papers/blob/main/figs/episurvey.png" width="1000" /></div>
+<div align=center><img src="https://github.com/Emory-Melody/Awesome-Graph-Neural-Differential-Equations/blob/main/figures/summary.png" width="1000" /></div>
+
 
 
 If you find this repo helpful, we would appreciate it if you could kindly cite our survey.
