@@ -19,11 +19,11 @@ You can follow our latest survey to stay updated with the most recent advancemen
 
 If you find this repo helpful, we would appreciate it if you could kindly cite our survey.
 ```
-@article{liu2024review,
-  title={A Review of Graph Neural Networks in Epidemic Modeling},
-  author={Zewen Liu, Guancheng Wan, B. Aditya Prakash, Max S. Y. Lau, Wei Jin},
-  journal={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)},
-  year={2024}
+@article{liu2025graph,
+  title={Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks},
+  author={Liu, Zewen and Wang, Xiaoda and Wang, Bohan and Huang, Zijie and Yang, Carl and Jin, Wei},
+  journal={arXiv preprint arXiv:2503.23167},
+  year={2025}
 }
 ```
 
