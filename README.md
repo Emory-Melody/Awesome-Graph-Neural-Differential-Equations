@@ -160,6 +160,11 @@ If you find this repo helpful, we would appreciate it if you could kindly cite o
 111. [2020] **Learning Continuous System Dynamics from Irregularly-Sampled Partial Observations** [[paper]](https://proceedings.neurips.cc/paper/2020/hash/ba4849411c8bbdd386150e5e32204198-Abstract.html)
 112. [2020] **Neural Dynamics on Complex Networks** [[paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403132)
 113. [2019] **Graph Neural Ordinary Differential Equations** [[paper]](https://arxiv.org/abs/1911.07532)
+114. [2025] **Temporally Detailed Hypergraph Neural ODE for Disease Progression Modeling** [[paper]](https://arxiv.org/pdf/2510.17211)
+115. [2025] **Pioneer: Physics-informed Riemannian Graph ODE for Entropy-increasing Dynamics** [[paper]](https://dl.acm.org/doi/10.1609/aaai.v39i12.33372)
+116. [2025] **Architecture-Aware Learning Curve Extrapolation via Graph Ordinary Differential Equation** [[paper]](https://dl.acm.org/doi/10.1609/aaai.v39i15.33789)
+117. [2025] **Efficient Training of Neural Fractional-Order Differential Equation via Adjoint Backpropagation** [[paper]](https://dl.acm.org/doi/10.1609/aaai.v39i17.33952)
+118. [2025] **Semi-Implicit Neural Ordinary Differential Equations** [[paper]](https://dl.acm.org/doi/10.1609/aaai.v39i21.34398)
 
 ## PDE
 1. [2024] **Continuous Spiking Graph Neural Networks** [[paper]](https://arxiv.org/pdf/2404.01897)
@@ -170,6 +175,8 @@ If you find this repo helpful, we would appreciate it if you could kindly cite o
 8. [2021] **Beltrami Flow and Neural Diffusion on Graphs** [[paper]](https://proceedings.neurips.cc/paper/2021/file/0cbed40c0d920b94126eaf5e707be1f5-Paper.pdf)
 9. [2021] **GrADE: A graph based data-driven solver for time-dependent nonlinear partial differential equations** [[paper]](https://arxiv.org/abs/2108.10639)
 10. [2021] **Learning continuous-time PDEs from sparse data with graph neural networks** [[paper]](https://arxiv.org/pdf/2006.08956)
+11. [2025] **Uncertainty Estimation on Graphs with Structure Informed Stochastic Partial Differential Equations** [[paper]](https://arxiv.org/abs/2506.06907)
+12. [2025] **DGNet: Learning Spatiotemporal PDEs with Discrete Green Networks** [[paper]](https://openreview.net/pdf/72ce290328d8017ff4810cc63072a0a20da7e815.pdf)
 
 
 ## SDE
@@ -186,11 +193,11 @@ If you find this repo helpful, we would appreciate it if you could kindly cite o
 ## Others Graph Neural DEs 
 ### Controlled Differential Equation (CDE)
 1. [2023] **Learning Dynamic Graph Embeddings with Neural Controlled Differential Equations** [[paper]](https://arxiv.org/pdf/2302.11354)
-2. [2022] **Graph Neural Controlled Differential Equations for Traffic Forecasting** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20587) 
+2. [2022] **Graph Neural Controlled Differential Equations for Traffic Forecasting** [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20587)
+3. [2025] **Permutation Equivariant Neural Controlled Differential Equations for Dynamic Graph Representation Learning** [[paper]](https://arxiv.org/pdf/2506.20324)
 
 ### Rough Differential Equation (RDE)
 1. [2023] **Graph Neural Rough Differential Equations for Traffic Forecasting** [[paper]](https://dl.acm.org/doi/full/10.1145/3604808) 
 
-## Related Surveys
-<!-- 1. [2022] **Data-Centric Epidemic Forecasting: A Survey** [[paper]](http://arxiv.org/abs/2207.09370) -->
-
+### Fractional Differential Equation (FDE)
+1. [2025] **Neural Variable-Order Fractional Differential Equation Networks** [[paper]](https://arxiv.org/pdf/2503.16207)
